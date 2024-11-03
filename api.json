@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Luxury Villa in Los Angeles",
+        "name": "Dream Homes Await You at Every Turn",
+        "text": "More",
+        "image": "./public/product1.png",
+        "location": "4750 Lincoln Blvd, Marina Del Rey, CA 90292",
+        "price": 1500,
+        "type": "Villa",
+        "category": "Houses",
+        "description": "This villa includes 5 bedrooms, 4 bathrooms, a private pool, and a roofp terrace with city views."
+    },
+    {
+        "id": 2,
+        "title": "Modern Apartment in New York",
+        "name": "Your Perfect Property Awaits with Us",
+        "text": "More",
+        "image": "./public/product2.png",
+        "location": "303 E 83rd St, New York, NY 10028",
+        "price": 9500,
+        "type": "Apartment",
+        "category": "Houses",
+        "description": "This apartment features 2 bedrooms, 2 bathrooms, and modern amenities like smart home technology and a fitness center."
+    },
+    {
+        "id": 3,
+        "title": "Beach House in Miami",
+        "name": "Find Your Dream Space With Our Experts",
+        "text": "More",
+        "image": "./public/product3.png",
+        "location": "4385 Collins Ave, Miami Beach, FL 33140",
+        "price": 2300,
+        "type": "House",
+        "category": "Rentals",
+        "description": "This beach house offers direct access the beach, 4 bedrooms, 3 bathrooms, and a spacious backyard."
+    },
+    {
+        "id": 4,
+        "title": "Cottage in the Countrys",
+        "name": "Navigating Your Real Estate Journey Together",
+        "text": "More",
+        "image": "./public/product4.png",
+        "location": "South Suburbs, 2700 183rd St, Homewood, IL 60430",
+        "price": 6500,
+        "type": "Cottage",
+        "category": "Rentals",
+        "description": "A quaint cottage surrounded by beautiful nature. 2 bedrooms, 1 bathroom,Large outdoor garden and a private pond."
+    },
+    {
+        "id": 5,
+        "title": "Penthouse Suite in Chicago",
+        "name": "Experience Exceptional Living in Every Neighborhood",
+        "text": "More",
+        "image": "./public/product5.png",
+        "location": "5107 S Blacksne Ave, Chicago, IL 60615",
+        "price": 3000,
+        "type": "Apartment",
+        "category": "Sales",
+        "description": "A luxurious penthouse with stunning skyline views. 3 bedrooms, 3.5 bathrooms, expansive floor-ceiling windows offering panoramic city views, private roofp terrace with a hot tub."
+    },
+    {
+        "id": 6,
+        "title": "Cottage in San Francisco",
+        "name": "Unlocking Doors to Your Future Home",
+        "text": "More",
+        "image": "./public/product6.png",
+        "location": "San Francisco, CA 94115, USA",
+        "price": 7000,
+        "type": "Cottage",
+        "category": "Sales",
+        "description": "A quaint cottage surrounded by beautiful nature. 1 bedrooms, 1 bathroom and a small kitchen, located in a bustling part of San Francisco with easy access  public transport."
+    }
+]
