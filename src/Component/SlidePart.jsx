@@ -1,11 +1,11 @@
 import React from 'react'
 import Container from './Container'
 import item1 from '../assets/Image/Item1.png'
-import item2 from '../assets/Image/item2.png'
-import item3 from '../assets/Image/item3.png'
-import item4 from '../assets/Image/item4.png'
-import item5 from '../assets/Image/item5.png'
-import item6 from '../assets/Image/item6.png'
+import item2 from '../assets/Image/Item2.png'
+import item3 from '../assets/Image/Item3.png'
+import item4 from '../assets/Image/Item4.png'
+import item5 from '../assets/Image/Item5.png'
+import item6 from '../assets/Image/Item6.png'
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
